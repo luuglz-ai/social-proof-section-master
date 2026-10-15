@@ -8,12 +8,11 @@ The goal of this project was to build a responsive social proof section featurin
 
 ### Screenshot
 
-![Social proof section preview](./design/desktop-preview.jpg)
+![Social proof section preview](./social-proof-section-master/design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: https://github.com/luuglz-ai/social-proof-section-master 
-- Live Site URL: Add your live website link here.
+- Solution URL: https://github.com/luuglz-ai/social-proof-section-master  
 
 ## My Process
 
